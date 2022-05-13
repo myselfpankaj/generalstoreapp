@@ -110,4 +110,13 @@ body:(Login form with method post)
 5. Run generalstoreapp.com
 ```
 
+# Screenshots
+![Screenshot 1](https://raw.githubusercontent.com/pankajku94/generalstoreapp/master/screenshots/database%20user.png)
 
+![Screenshot 2](https://raw.githubusercontent.com/pankajku94/generalstoreapp/master/screenshots/database%20vendor%20list.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/pankajku94/generalstoreapp/master/screenshots/database%20vendor.png)
+
+![Screenshot 4](https://raw.githubusercontent.com/pankajku94/generalstoreapp/master/screenshots/database.png)
+
+![Screenshot 5](https://raw.githubusercontent.com/pankajku94/generalstoreapp/master/screenshots/homepage.png)
